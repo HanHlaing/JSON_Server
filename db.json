@@ -1,13 +1,13 @@
 {
   "announcementList": [
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" },
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" },
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" },
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" },
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" },
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" },
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" },
-    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" }
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
+    { "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
