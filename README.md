@@ -9,4 +9,4 @@ No registration. Nothing to install.
 Example
 
 You can check the following server as an example:
-https://my-json-server.typicode.com/HanHlaing/JSON_Server/blob/master/posts
+https://my-json-server.typicode.com/HanHlaing/JSON_Server/blob/master/articles
