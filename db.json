@@ -1,19 +1,68 @@
 {
-  "announcementList": [
-    { "announcementId":"1", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
-    { "announcementId":"2", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
-    { "announcementId":"3", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
-    { "announcementId":"4", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
-    { "announcementId":"5", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
-    { "announcementId":"6", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
-    { "announcementId":"7", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false},
-    { "announcementId":"8", "announcementTitle":"特別授業開講！", "announcementDesc": "特別授業を開講します！イベント予約から・・・","announcementNews":"news ", "dateTime":"大井町校　3月11日" ,"isEnd":false}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "articles":{
+      "status":"success",
+      "content":[
+         {
+            "id":1,
+            "title":"Q7 - Greatness starts, when you don't stop.",
+            "ingress":"The Audi Q7 is the result of an ambitious idea: never cease to improve.",
+            "image":"",
+            "dateTime":"29 November 2017, 15:12",
+            "content":[
+               
+            ]
+         },
+         {
+            "id":2,
+            "title":"Q5 - Created for almost any landscape.",
+            "ingress":"Don't leave anything to chance. Whether it comes to comfort, style, or dynamics, the Audi Q5 will win you over from the first moment.",
+            "image":"news ",
+            "dateTime":"29 November 2017, 15:11",
+            "content":[
+               
+            ]
+         },
+         {
+            "id":3,
+            "title":"Q2 - En route to myself",
+            "ingress":"Distinctive, unmistakable, A7.",
+            "image":"",
+            "dateTime":"29 November 2017, 15:09",
+            "content":[
+               
+            ]
+         },
+         {
+            "id":4,
+            "title":"Q7 - Greatness starts, when you don't stop.",
+            "ingress":"The Audi Q7 is the result of an ambitious idea: never cease to improve.",
+            "image":"",
+            "dateTime":"29 November 2017, 15:12",
+            "content":[
+               
+            ]
+         },
+         {
+            "id":5,
+            "title":"Q5 - Created for almost any landscape.",
+            "ingress":"Don't leave anything to chance. Whether it comes to comfort, style, or dynamics, the Audi Q5 will win you over from the first moment.",
+            "image":"news ",
+            "dateTime":"29 November 2017, 15:11",
+            "content":[
+               
+            ]
+         },
+         {
+            "id":6,
+            "title":"Q2 - En route to myself",
+            "ingress":"Distinctive, unmistakable, A7.",
+            "image":"",
+            "dateTime":"29 November 2017, 15:09",
+            "content":[
+               
+            ]
+         }
+      ],
+      "serverTime":1672737152
+   }
 }
